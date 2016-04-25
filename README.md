@@ -6,6 +6,7 @@
 ######1 Display 2x8
 
 ###Next Version
+###### smd (resistenza in package 1206)
 ######2 Uscite a Relè
 ######2 Input optoisolati
 ######2 Output optoisolati
